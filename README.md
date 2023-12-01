@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Adrian Klimas</h1>
-<h3 align="center">I am a 24-year-old enthusiast who devotes at least an hour every day to learning. I am fluent in English and learn new skills quickly. Mathematics and algorithms are areas I love, and I play chess to develop logical thinking. My greatest passion is programming, to which I give my heart. I also have experience as a sales representative and store manager, which developed my interpersonal skills and organizational abilities. I am motivated, ambitious and ready for new challenges, always striving for excellence in what I do.</h3>
+<h3 align="center">I am a 25-year-old enthusiast who devotes at least an hour every day to learning. I am fluent in English and learn new skills quickly. Mathematics and algorithms are areas I love, and I play chess to develop logical thinking. My greatest passion is programming, to which I give my heart. I also have experience as a sales representative and store manager, which developed my interpersonal skills and organizational abilities. I am motivated, ambitious and ready for new challenges, always striving for excellence in what I do.</h3>
 
 
 
