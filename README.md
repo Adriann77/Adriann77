@@ -3,7 +3,7 @@
 
 
 
-- 🌱 I’m currently learning **javascript**
+- 🌱 I’m currently learning **REACT + TS**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Adriann77](https://github.com/Adriann77)
 
