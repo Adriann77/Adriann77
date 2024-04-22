@@ -1,12 +1,14 @@
 <h1 align="center">Hi 👋, I'm Adrian</h1>
 <h2 align="center">A passionate frontend developer begginer</h2>
-<a align="center" href="https://adriann77.github.io/personal-portfolio/" target="_blank">Portfolio</a>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adriann77&label=Profile%20views&color=0e75b6&style=flat" alt="adriann77" /> </p>
 
 - 👨‍💻 All of my projects are available at [https://github.com/Adriann77](https://github.com/Adriann77)
 
 - 📫 How to reach me **klimasa98@gmail.com**
+<br>
+<a align="center" href="https://adriann77.github.io/personal-portfolio/" target="_blank">Portfolio</a>
+<br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
