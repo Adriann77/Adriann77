@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Adrian</h1>
-<h3 align="center">A passionate frontend developer begginer</h3>
+<h2 align="center">A passionate frontend developer begginer</h2>
+<a align="center" href="https://adriann77.github.io/personal-portfolio/" target="_blank">Portfolio</a>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adriann77&label=Profile%20views&color=0e75b6&style=flat" alt="adriann77" /> </p>
 
