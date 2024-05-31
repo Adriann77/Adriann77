@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Adrian</h1>
-<h2 align="center">A passionate frontend developer begginer</h2>
+<h2 align="center">Passionate frontend developer</h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adriann77&label=Profile%20views&color=0e75b6&style=flat" alt="adriann77" /> </p>
 
