@@ -22,7 +22,7 @@
 
 ### Check out my projects on my portfolio website or check the code in the pinned projects below ⬇
 
-<a align="center" href="https://adriann77.github.io/personal-portfolio/" target="_blank">Portfolio</a>
+<a align="center" href="https://adrian-dev-portfolio.vercel.app/" target="_blank">Portfolio</a>
 
 
 
