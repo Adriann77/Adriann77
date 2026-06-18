@@ -20,8 +20,9 @@
 [![Other](https://skillicons.dev/icons?i=ai,graphql,figma&perline=3)](https://skillicons.dev)
 
 
-### Check out my projects on my portfolio website or check the code in the pinned projects below ⬇
+### Check out my projects on my RPG style portfolio website or check the code in the pinned projects below ⬇
 
+<img src="https://adrian-dev-portfolio.vercel.app/map/world-map.png"/>
 <a align="center" href="https://adrian-dev-portfolio.vercel.app/" target="_blank">Portfolio</a>
 
 
